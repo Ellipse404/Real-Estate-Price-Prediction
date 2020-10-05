@@ -1,0 +1,10 @@
+This project has been done with Machine Learning Technology using Python 3.7.0
+these are the requirements :
+1. Python 3.0 or above version installed.
+2. Jupyter Notebbok.
+3. Data-Set in .csv file format.
+Some python libray/ modules installed :
+     i) pandas
+     ii) numpy
+     iii) matplotlib.pyplot
+     iv) scikit-learn (lattest version)
