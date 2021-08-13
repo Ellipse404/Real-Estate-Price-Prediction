@@ -1,4 +1,4 @@
-# Reasl-Estate-Price-Prediction
+# Real-Estate-Price-Prediction
 As its a Real Life problem demonstrated with Machine Learning using Python 3
 Based on the data-set we provide, it gives the result. The more consistent data is the low Accuracy it gives. I've tried various ways to remove consistency in data-set.
 In each necessary step data-set is visualized for better understanding.
